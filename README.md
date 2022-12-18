@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Jaival Saija</h1>
 <h3>A passionate DevOps Engineer and developer from India</h3>
 
-- 🔭 I’m currently working on [Taskly](https://github.com/Jaival/taskly)
-- 🌱 I’m currently learning **Flutter, Typescript, react, nextJS**
-- 💬 Ask me about **Flutter, DevOps, Cloud**
+- 🔭 I’m currently working on [Notely](https://github.com/Jaival/notely), [Taskly](https://github.com/Jaival/taskly).
+- 🌱 I’m currently learning **Flutter, Typescript, react, nextJS**.
+- 💬 Ask me about **Flutter, DevOps, Cloud**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
