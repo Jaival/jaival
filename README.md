@@ -19,8 +19,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,firebase,docker,dart,flutter,python,next,tailwind,typescript,idea,vscode)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaival&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="jaival" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaival&show_icons=true&theme=dark&locale=en&layout=compact" alt="jaival" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaival&show_icons=true&theme=synthwave&locale=en" alt="jaival" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaival&show_icons=true&theme=dark&locale=en" alt="jaival" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaival&theme=synthwave" alt="jaival" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaival&theme=dark" alt="jaival" /></p>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ae5a6f424d6b2509971bbd?variant=dark&roadmaps=full-stack%2Cdevops%2Cprompt-engineering%2Creact)](https://roadmap.sh)
