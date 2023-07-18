@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaival&theme=dark" alt="jaival" /></p>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ae5a6f424d6b2509971bbd?variant=dark&roadmaps=full-stack%2Cdevops%2Cprompt-engineering%2Creact)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ae5a6f424d6b2509971bbd?variant=dark)](https://roadmap.sh)
